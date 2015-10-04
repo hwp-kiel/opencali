@@ -1,0 +1,4 @@
+when apply conversion of ui to py
+change last line in mainwindow.py into:
+
+from src.ui.mplwidget import MplWidget
